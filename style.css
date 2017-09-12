@@ -3,7 +3,7 @@
    =============================================== */
 
    .backgroundcolorgreen {	
-   	background-color: #33cc33;
+   	background-color: #008000;
    }
    .divname {
    	font-size: 80px;
@@ -13,5 +13,8 @@
    .divrole {
    	font-size: 40px;
    	color: white;
+   	text-align: center;
+   }
+   .divsocialbuttons {
    	text-align: center;
    }
